@@ -14,7 +14,7 @@
 
 #3 Run xunit from xunit console 
 
-    # xunit.runner.console  (to run from console)
+    # Download xunit.runner.console package from Nuget (to run from console)
 	# Go to the xunit.runner.console package in package folder 
 	# C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\packages\xunit.runner.console.2.2.0\tools>
 	# Run the test cases as follows 
