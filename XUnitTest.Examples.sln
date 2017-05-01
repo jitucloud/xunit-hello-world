@@ -5,10 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnit.Examples", "XUnit.Examples\XUnit.Examples.csproj", "{F6323D71-16E7-4522-A753-E7CBF2CB2931}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnit.Examples.Test", "XUnit.Examples.Test\XUnit.Examples.Test.csproj", "{16ACCCD6-1F84-415C-8D37-77A6547C33C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnit.Examples.Tests", "XUnit.Examples.Test\XUnit.Examples.Tests.csproj", "{16ACCCD6-1F84-415C-8D37-77A6547C33C2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8E71497-157F-4A97-9EA6-C575D7CC069F}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		README.md = README.md
 	EndProjectSection
 EndProject
