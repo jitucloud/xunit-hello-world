@@ -1,0 +1,4 @@
+C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples\bin\Debug\XUnit.Examples.dll
+C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples\bin\Debug\XUnit.Examples.pdb
+C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples\obj\Debug\XUnit.Examples.dll
+C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples\obj\Debug\XUnit.Examples.pdb
