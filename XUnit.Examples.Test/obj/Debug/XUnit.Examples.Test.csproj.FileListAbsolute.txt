@@ -8,9 +8,11 @@ C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples
 C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\bin\Debug\XUnit.Examples.dll
 C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\bin\Debug\xunit.execution.dotnet.dll
 C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\bin\Debug\XUnit.Examples.pdb
-C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\bin\Debug\xunit.abstractions.xml
 C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\bin\Debug\xunit.assert.xml
 C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\bin\Debug\xunit.core.xml
 C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\bin\Debug\xunit.execution.dotnet.xml
 C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\obj\Debug\XUnit.Examples.Test.dll
 C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\obj\Debug\XUnit.Examples.Test.pdb
+C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\bin\Debug\xunit.runner.utility.net35.dll
+C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\XUnit.Examples.Test\bin\Debug\xunit.runner.reporters.net452.dll

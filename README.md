@@ -6,10 +6,15 @@
 
 #1 xunit (enable the project to create and run xunit test cases)
 
+#2 Run xunit from Visual Studio 
+
+	# Download xunit.runner.visualstudio package from Nuget
+	# Go to Test => Windows => Test Explorer and you will see all test cases in left side of visualstudio
 
 
-#2 xunit.runner.console  (to run from console)
+#3 Run xunit from xunit console 
 
+    # xunit.runner.console  (to run from console)
 	# Go to the xunit.runner.console package in package folder 
 	# C:\D-Drive\Code\Visual-Studio\UnitTestExamples\XUnitTest.Examples\packages\xunit.runner.console.2.2.0\tools>
 	# Run the test cases as follows 
